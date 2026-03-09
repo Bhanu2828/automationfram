@@ -7,7 +7,7 @@ import net.bytebuddy.asm.Advice.This;
 
 public class Base {
 	
-	WebDriver driver;
+	WebDriver driver; // this is my driver
 	
 	public Base(WebDriver driver)
 	{
